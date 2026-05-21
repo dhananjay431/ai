@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">AI Model Rankings and LLM Leaderboard</title>
+  <desc id="desc">A dark futuristic AI model rankings graphic with glassmorphism leaderboard cards, benchmark bars, model chips, and gradient accents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050816"/><stop offset="0.45" stop-color="#101935"/><stop offset="1" stop-color="#080b16"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#4facfe"/><stop offset="0.48" stop-color="#667eea"/><stop offset="1" stop-color="#f093fb"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#facc15"/><stop offset="1" stop-color="#ff7e5f"/></linearGradient>
+    <radialGradient id="glowA" cx="16%" cy="22%" r="70%"><stop offset="0" stop-color="#667eea" stop-opacity="0.72"/><stop offset="1" stop-color="#667eea" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glowB" cx="88%" cy="76%" r="64%"><stop offset="0" stop-color="#f093fb" stop-opacity="0.55"/><stop offset="1" stop-color="#f093fb" stop-opacity="0"/></radialGradient>
+    <filter id="softBlur" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="34"/></filter>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000" flood-opacity="0.35"/></filter>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glowA)"/>
+  <rect width="1200" height="630" fill="url(#glowB)"/>
+  <g opacity="0.22" stroke="rgba(255,255,255,0.16)"><path d="M0 70H1200M0 140H1200M0 210H1200M0 280H1200M0 350H1200M0 420H1200M0 490H1200M0 560H1200"/><path d="M80 0V630M160 0V630M240 0V630M320 0V630M400 0V630M480 0V630M560 0V630M640 0V630M720 0V630M800 0V630M880 0V630M960 0V630M1040 0V630M1120 0V630"/></g>
+  <g filter="url(#softBlur)" opacity="0.8"><circle cx="190" cy="520" r="110" fill="#4facfe"/><circle cx="1015" cy="150" r="120" fill="#667eea"/><circle cx="1010" cy="505" r="130" fill="#f093fb"/></g>
+  <rect x="54" y="54" width="1092" height="522" rx="42" fill="rgba(255,255,255,0.065)" stroke="rgba(255,255,255,0.18)" filter="url(#shadow)"/>
+  <rect x="86" y="86" width="1028" height="458" rx="30" fill="rgba(10,14,26,0.52)" stroke="rgba(255,255,255,0.1)"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="112" y="134" fill="#dbeafe" font-size="24" font-weight="800" letter-spacing="1.2">AI RESEARCH HUB</text>
+    <rect x="112" y="154" width="232" height="8" rx="4" fill="url(#accent)"/>
+    <text x="112" y="244" fill="#ffffff" font-size="70" font-weight="900" letter-spacing="-2.2">AI Model</text>
+    <text x="112" y="322" fill="#ffffff" font-size="70" font-weight="900" letter-spacing="-2.2">Rankings</text>
+    <text x="112" y="376" fill="#c7d2fe" font-size="27" font-weight="500">Top Models • Market Share • Benchmarks</text>
+    <text x="112" y="418" fill="#93c5fd" font-size="23" font-weight="700">Performance • Context Length • Tool Calls • Images • Audio • Apps</text>
+  </g>
+  <g transform="translate(720 120)" font-family="Inter, Segoe UI, Arial, sans-serif">
+    <rect x="0" y="0" width="342" height="366" rx="26" fill="rgba(21,29,51,0.86)" stroke="rgba(255,255,255,0.16)"/>
+    <text x="28" y="48" fill="#ffffff" font-size="25" font-weight="800">LLM Leaderboard</text>
+    <text x="28" y="76" fill="#9ca3af" font-size="14" font-weight="600">Weekly usage + benchmark signals</text>
+    <g transform="translate(28 106)"><rect width="286" height="52" rx="16" fill="rgba(102,126,234,0.17)" stroke="rgba(102,126,234,0.34)"/><circle cx="27" cy="26" r="17" fill="url(#gold)"/><text x="22" y="32" fill="#111827" font-size="15" font-weight="900">1</text><text x="58" y="24" fill="#fff" font-size="16" font-weight="800">Frontier Reasoning</text><text x="58" y="42" fill="#b0b8d1" font-size="12" font-weight="600">High quality • tool ready</text><rect x="211" y="20" width="52" height="10" rx="5" fill="url(#accent)"/></g>
+    <g transform="translate(28 174)"><rect width="286" height="52" rx="16" fill="rgba(79,172,254,0.11)" stroke="rgba(79,172,254,0.28)"/><circle cx="27" cy="26" r="17" fill="#4facfe"/><text x="22" y="32" fill="#06111f" font-size="15" font-weight="900">2</text><text x="58" y="24" fill="#fff" font-size="16" font-weight="800">Fast Multimodal</text><text x="58" y="42" fill="#b0b8d1" font-size="12" font-weight="600">Images • audio • low latency</text><rect x="211" y="20" width="42" height="10" rx="5" fill="#4facfe"/></g>
+    <g transform="translate(28 242)"><rect width="286" height="52" rx="16" fill="rgba(240,147,251,0.11)" stroke="rgba(240,147,251,0.28)"/><circle cx="27" cy="26" r="17" fill="#f093fb"/><text x="22" y="32" fill="#211024" font-size="15" font-weight="900">3</text><text x="58" y="24" fill="#fff" font-size="16" font-weight="800">Open Coding Model</text><text x="58" y="42" fill="#b0b8d1" font-size="12" font-weight="600">Repo edits • tests • agents</text><rect x="211" y="20" width="35" height="10" rx="5" fill="#f093fb"/></g>
+    <text x="28" y="330" fill="#00d9a5" font-size="15" font-weight="800">Context • Pricing • Throughput • Reliability</text>
+  </g>
+  <g transform="translate(112 460)" font-family="Inter, Segoe UI, Arial, sans-serif"><rect width="540" height="54" rx="18" fill="rgba(255,255,255,0.07)" stroke="rgba(255,255,255,0.13)"/><text x="24" y="35" fill="#ffffff" font-size="18" font-weight="800">OpenRouter-style rankings page • local SVG asset</text></g>
+</svg>
