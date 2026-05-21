@@ -20,3 +20,9 @@ sharp -i natural-language-processing.svg -o natural-language-processing.png resi
 sharp -i neural-network-basics.svg -o neural-network-basics.png resize 1200 250
 sharp -i prompt-engineering-basics.svg -o prompt-engineering-basics.png resize 1200 250
 sharp -i retrieval-augmented-generation.svg -o retrieval-augmented-generation.png resize 1200 250
+
+
+
+for %f in (*.svg) do sharp -i "%f" -o "%~nf.png"
+
+for %f in (*.png) do sharp -i "%f" jpeg quality=75 mozjpeg=true -o "%~nf.jpg"
