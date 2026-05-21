@@ -1,0 +1,145 @@
+# topics list
+- Agentic AI
+- Multi-Agent Systems
+- AI Coding Agents
+- Autonomous Software Development
+- AI Browser Automation
+- AI Operating Systems
+- AI-native Applications
+- AI Workflow Automation
+- AI Memory Systems
+- Long Context LLMs
+- Small Language Models (SLMs)
+- Open-weight AI Models
+- On-device AI
+- Edge AI
+- AI PCs
+- Local LLM Deployment
+- Retrieval-Augmented Generation (RAG)
+- Graph RAG
+- Hybrid Search AI
+- AI Knowledge Graphs
+- Multimodal AI
+- Vision Language Models (VLMs)
+- Video Generation AI
+- AI Video Editing
+- AI Voice Cloning
+- Real-time Speech AI
+- Emotion-aware AI
+- AI Avatars
+- AI Digital Humans
+- AI Companions
+- AI Search Engines
+- AI Browsers
+- AI Productivity Suites
+- AI Email Assistants
+- AI Meeting Assistants
+- AI Presentation Generators
+- AI Spreadsheet Automation
+- AI UX/UI Design
+- AI Frontend Development
+- AI Backend Development
+- AI DevOps
+- AI Infrastructure Automation
+- AI Cloud Orchestration
+- AI Kubernetes Management
+- AI Security Monitoring
+- AI Cybersecurity Agents
+- AI Penetration Testing
+- AI Threat Detection
+- AI Fraud Detection
+- AI Governance
+- AI Alignment
+- AI Safety Engineering
+- Constitutional AI
+- Synthetic Data Generation
+- AI Data Labeling Automation
+- AI Fine-tuning
+- LoRA Fine-tuning
+- Quantized AI Models
+- Mixture of Experts (MoE)
+- Distillation of LLMs
+- AI Benchmarking
+- AI Evaluation Frameworks
+- AI Observability
+- AI Monitoring Systems
+- AI Hallucination Reduction
+- AI Explainability (XAI)
+- Federated Learning
+- Privacy-preserving AI
+- Differential Privacy in AI
+- AI + Blockchain
+- AI Smart Contracts
+- AI Crypto Trading Bots
+- AI Stock Market Prediction
+- AI Quantitative Trading
+- AI Financial Advisors
+- AI in Healthcare
+- AI Drug Discovery
+- AI Medical Imaging
+- AI in Education
+- Personalized AI Tutors
+- AI-generated Courses
+- AI in Agriculture
+- AI Robotics
+- Humanoid Robots
+- AI-powered Drones
+- AI in Manufacturing
+- AI-powered Smart Homes
+- AI IoT Systems
+- AI-powered Search Ads
+- AI Marketing Automation
+- AI Content Creation
+- AI Influencer Tools
+- AI Instagram Reel Generation
+- AI YouTube Automation
+- AI SEO Optimization
+- AI Game Development
+- AI NPC Systems
+- Generative 3D AI
+- AI-powered AR/VR
+- Artificial General Intelligence (AGI)
+- Fast Growing AI Topics Right Now
+- AI Agents
+- AI Coding Assistants
+- Local LLMs with Ollama
+- Open-source AI Models
+- Multimodal AI
+- AI Video Generation
+- RAG Architecture
+- AI Automation for Businesses
+- AI SaaS Products
+- Edge AI + Mobile AI
+- Best Topics for Career Growth
+- AI Full Stack Development
+- AI Agent Engineering
+- Prompt Engineering
+- AI DevOps / MLOps
+- RAG Engineering
+- AI Product Development
+- AI Infrastructure
+- AI Security
+- AI Automation Consulting
+- AI SaaS Building
+- Best Topics for YouTube / Instagram Content
+- AI Tools Comparison
+- AI Coding Tricks
+- AI Automation Tutorials
+- AI Startup Ideas
+- AI Reels Generation
+- AI Website Builders
+- AI Business Automation
+- Open-source AI
+- AI Agents with Node.js
+- Local AI Setup Tutorials
+- Best Topics for Building Startups
+- AI Agents for Businesses
+- AI CRM Automation
+- AI Recruitment Systems
+- AI Video Creation SaaS
+- AI OCR Platforms
+- AI Customer Support
+- AI Coding Platforms
+- AI Education Apps
+- AI Healthcare SaaS
+- AI Marketing Tools
